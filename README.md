@@ -34,6 +34,22 @@ El sistema está desarrollado en **Spring Boot** e integra **Supabase**, **Whats
 
 ---
 
+⚠️ Importante: Aspectos legales a tener en cuenta
+
+Actualmente, Simplify Booking es un proyecto funcional, pero no está completamente adaptado a la normativa legal vigente (como RGPD, LOPDGDD, LSSICE o regulaciones específicas del sector) en españa.
+
+Si deseas utilizarlo comercialmente, será necesario:
+
+Garantizar el cumplimiento de la normativa de protección de datos.
+
+Adaptar la gestión de datos personales a los estándares legales.
+
+Implementar políticas de privacidad, términos y condiciones adecuados.
+
+Simplify Booking es una base sólida, pero su despliegue comercial debe contemplar estas adaptaciones para operar de forma legal y segura.
+
+---
+
 ## ⚙️ **Instalación y configuración**
 
 ### 1️⃣ **Clona el repositorio**
