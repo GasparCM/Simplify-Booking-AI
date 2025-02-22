@@ -109,7 +109,7 @@ curl -X POST http://localhost:8080/deepseek/test \
 ---
 
 ## 🛡 **Licencia**
-Distribuido bajo la licencia MIT. Consulta el archivo `LICENSE` para más información.
+Distribuido bajo la licencia Creative Commons CC0 1.0 Universal. Consulta el archivo `LICENSE` para más información.
 
 ---
 
